@@ -1,4 +1,4 @@
-# ✍️ handwriting-to-latex
+# handwriting-to-latex
 
 A Claude skill that converts handwritten notes, problem sets, and scanned PDFs into clean, Overleaf-ready `.tex` files — in one shot.
 
@@ -6,7 +6,7 @@ A Claude skill that converts handwritten notes, problem sets, and scanned PDFs i
 
 ---
 
-## ✨ What It Does
+## What It Does
 
 Upload a photo of your handwritten notes or a scanned PDF, and Claude will:
 
@@ -19,7 +19,7 @@ Upload a photo of your handwritten notes or a scanned PDF, and Claude will:
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 ### 1. Add the skill to Claude
 
@@ -43,7 +43,7 @@ Claude will confirm what it sees, then generate a complete `.tex` file ready to 
 
 ---
 
-## 📄 Example Output
+## Example Output
 
 **Input:** A photo of handwritten quantum mechanics derivations
 
@@ -75,7 +75,7 @@ Expanding the Hamiltonian:
 
 ---
 
-## ⚙️ Features
+## Features
 
 | Feature | Detail |
 |---|---|
@@ -89,7 +89,7 @@ Expanding the Hamiltonian:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 handwriting-to-latex/
@@ -100,7 +100,7 @@ handwriting-to-latex/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! If you have improvements to the recognition rules, additional symbol mappings, or support for new input formats, feel free to open a pull request.
 
@@ -108,6 +108,6 @@ Please keep the skill instructions clear and concise — Claude reads this file 
 
 ---
 
-## 📜 License
+## License
 
 MIT © [yangcodingmaster](https://github.com/yangcodingmaster)
